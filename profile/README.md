@@ -28,4 +28,3 @@ Voiced is a dictation app for macOS that turns your speech into clean, polished 
 - **Website:** [voicedhq.com](https://www.voicedhq.com)
 - **Blog:** [voicedhq.com/blog](https://www.voicedhq.com/blog/)
 - **Support:** [voicedhq.com/support](https://www.voicedhq.com/support.html)
-- **Contact:** support@voicedhq.com
